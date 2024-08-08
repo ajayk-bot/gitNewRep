@@ -1,12 +1,7 @@
 public class tesing {
 
-    sun.security.tools().security().security
-      sun.security.tools().security().security
-        sun.security.tools().security().security
-          sun.security.tools().security().security
-            sun.security.tools().security().security
-              sun.security.tools().security().security
-                sun.security.tools().security().security    sun.security.tools().security().security    sun.security.tools().security().security    sun.security.tools().security().security
 
-        sun.security.tools().security().security    sun.security.tools().security().security    sun.security.tools().security().security
+  public static void main(String[] args) {
+    System.out.println("Check the chnages");
+  }
 }
